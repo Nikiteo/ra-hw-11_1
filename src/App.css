@@ -1,0 +1,25 @@
+
+.App {
+  text-align: center;
+}
+
+.errorBlock {
+  width: 300px;
+  background-color: rgb(252, 146, 146);
+}
+
+.errorText {
+  text-align: center;
+  color: rgb(156, 4, 4);
+}
+
+button {
+  border: none;
+  background-color: rgb(219, 17, 61);
+  color: white;
+  margin-right: 2px;
+}
+
+table {
+  border-spacing: 3px;
+}
